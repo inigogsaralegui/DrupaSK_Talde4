@@ -1,0 +1,1 @@
+Drupal.locale = { 'pluralFormula': function ($n) { return Number(($n!=1)); }, 'strings': {"":{"An AJAX HTTP error occurred.":"AJAX HTTP errorea gertatu da.","Hide shortcuts":"Ezkutatu lasterbideak","Configure":"Konfiguratu","Show shortcuts":"Erakutsi lasterbideak"}} };
